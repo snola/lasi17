@@ -1,0 +1,77 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Hendrik Drachsler",
+        "title": "Associate Professor",
+        "company": "Open University of the Netherlands",
+        "companyLogo": "",
+        "country": "Open University of the Netherlands",
+        "photoUrl": "/images/people/drachsler.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Keynote"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://scholar.google.com/citations?user=v1hwiRAAAAAJ"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Dragan Gasevic",
+        "title": "Professor & Chair in Learning Analytics & Informatics",
+        "company": "University of Edinburgh",
+        "companyLogo": "",
+        "country": "University of Edinburgh",
+        "photoUrl": "/images/people/gasevic.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Keynote"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://scholar.google.com/citations?user=Q4Nm22sAAAAJ"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Katrien Verbert",
+        "title": "Assistant Professor",
+        "company": "KU Leuven",
+        "companyLogo": "",
+        "country": "KU Leuven",
+        "photoUrl": "/images/people/verbert.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Keynote"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://scholar.google.com/citations?user=t5cgwVAAAAAJ"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "youtubeId": "Nyqbyyhh3yo",
+    "title": "Keynote “Educational Data Science",
+    "speakers": "Cristóbal Romero",
+    "thumbnail": "/images/sessions/1.png"
+  },
+  {
+    "youtubeId": "t5WaDX-_ECY",
+    "title": "Keynote “Learning analytics: Visions of the Future”",
+    "speakers": "Rebecca Ferguson",
+    "thumbnail": "/images/sessions/2.png"
+  },
+  {
+    "youtubeId": "kROd0fAmjqo",
+    "title": "Use of Learning Analytics in Remedial Courses",
+    "speakers": "Pedro J. Muñoz-Merino",
+    "thumbnail": "/images/sessions/5.png"
+  },
+  {
+    "youtubeId": "PSSiyASWL6A",
+    "title": "Using Learning Analytics tools in Engineering Education",
+    "speakers": "Miguel A. Conde",
+    "thumbnail": "/images/sessions/4.png"
+  },
+  {
+    "youtubeId": "c4n6j4Re8lM",
+    "title": "Learning Analytics in action: privacy issues in the classroom",
+    "speakers": "M. J. Rodríguez-Triana",
+    "thumbnail": "/images/sessions/3.png"
+  }
+]

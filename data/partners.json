@@ -1,0 +1,98 @@
+[
+  {
+    "title": "template-creator",
+    "logos": [
+      {
+        "name": "Universidad Carlos III de Madrid",
+        "url": "http://www.uc3m.es/",
+        "logoUrl": "../images/logos/uc3m.jpg",
+        "width": 340
+      }
+    ]
+  },
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Universidad Nacional de Educacion a Distancia",
+        "url": "http://www.uned.es/",
+        "logoUrl": "../images/logos/UNED.jpg"
+      },
+      {
+        "name": "Universidad Politécnica de Madrid",
+        "url": "http://upm.es",
+        "logoUrl": "../images/logos/upm.png"
+      }
+      ]
+  },
+  {
+    "title": "sponsors",
+    "logos": [
+      {
+        "name": "Ministry of Economy and Competitiveness, Spain",
+        "url": "http://www.mineco.gob.es/portal/site/mineco",
+        "logoUrl": "../images/logos/mineco.jpg"
+      },
+      {
+        "name": "Spanish Network of Learning Analytics (SNOLA)",
+        "url": "https://snola.es",
+        "logoUrl": "../images/logos/SNOLA.png"
+      },
+      {
+        "name": "Society of Learning Analytics (SoLAR)",
+        "url": "http://solaresearch.org/",
+        "logoUrl": "../images/logos/solar-logo.png"
+      },
+      {
+        "name": "eMadrid",
+        "url": "http://www.emadridnet.org/",
+        "logoUrl": "../images/logos/emadrid.png"
+      }
+      ]
+  },
+  {
+    "title": "partners",
+    "logos": [
+      {
+        "name": "GRIAL Research Group. University of Salamanca",
+        "url": "https://grial.usal.es",
+        "logoUrl": "../images/logos/grial_negro.png"
+      },
+      {
+        "name": "DeustoTech Learning",
+        "url": "http://dtlearning.deusto.es/",
+        "logoUrl": "../images/logos/deustotech-learning.jpg"
+      },
+      {
+        "name": "Grupo de Robótica - Universidad de León",
+        "url": "http://robotica.unileon.es/",
+        "logoUrl": "../images/logos/robotica-ULE.png"
+      },
+      {
+        "name": "Grupo GaLan. UPV-EHU",
+        "url": "http://galan.ehu.es/",
+        "logoUrl": "../images/logos/galan.png"
+      },
+      {
+        "name": "Grupo de Tecnologías de la Información para la Gestión Empresarial (TIGE-UPM)",
+        "url": "http://tige.ior.etsit.upm.es/",
+        "logoUrl": "../images/logos/TIGE.png"
+      },
+      {
+        "name": "GSIC-EMIC (Grupo de Sistemas Inteligentes y Cooperativos - Educación, Medios, Informática y Cultura",
+        "url": "http://gsic.uva.es/",
+        "logoUrl": "../images/logos/logo-gsic.jpg"
+      },
+      {
+        "name": "Gradient - Universidad Carlos III de Madrid",
+        "url": "http://gradient.it.uc3m.es/",
+        "logoUrl": "../images/logos/Gradient_UC3M.png"
+      },
+      {
+        "name": "GIST - Universidad de Vigo",
+        "url": "http://www-gist.det.uvigo.es/",
+        "logoUrl": "../images/logos/gist-vigo.png"
+      }
+    ]
+  }
+]

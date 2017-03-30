@@ -1,0 +1,246 @@
+{
+  "firebase": {
+    "name": "lasi17-339e1",
+    "domain": "lasi17-339e1.firebaseapp.com",
+    "database": "https://lasi17-339e1.firebaseio.com",
+    "api": "AIzaSyBkUpyl8QzjnhYSs6j81tkHfe4Gl2gYxOc",
+    "userSessionsPath": "/userSessions"
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "LASI Spain 2016",
+          "youtubeId": "Q-3rHUS6clc",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "https://lasi17.snola.es",
+  "mailchimp": {
+    "url": "",
+    "name": ""
+  },
+  "partnershipProposition": "mailto:info@snola.es?subject=Partnership%20LASI%20Spain%202017",
+  "disqusShortName": "lasiSpain2017",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "snola",
+          "url": "https://snola.es/",
+          "newTab": true
+        },
+        {
+          "text": "lasi16",
+          "url": "https://lasi16.snola.es/",
+          "newTab": true
+        },
+        {
+          "text": "lasi15",
+          "url": "https://blogs.deusto.es/lasi2015Bilbao/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "mailto:info@snola.es?subject=Partnership%20LASI%20Spain%202017",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "info@snola.es",
+        "url": "mailto:info@snola.es"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://goo.gl/forms/Ad5n4cudA3lK4O9x1",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": "TBA",
+        "currency": " € (each lunch)",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 0,
+        "currency": "€",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "lazy-ticket",
+        "price": "+10",
+        "currency": " grants available",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": "150+",
+      "caption": "attendees"
+    },
+    {
+      "counter": 3,
+      "caption": "days"
+    },
+    {
+      "counter": "3+",
+      "caption": "keynotes"
+    },
+    {
+      "counter": "5+",
+      "caption": "workshops"
+    },
+    {
+      "counter": "3+",
+      "caption": "industry"
+    },
+    {
+      "counter": "25+",
+      "caption": "academic"
+    }
+  ],
+  "hashtag": "LASISpain17",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "snolaresearch",
+      "url": "https://twitter.com/snolaresearch"
+    },
+    {
+      "name": "github",
+      "nickname": "SNOLA",
+      "url": "https://github.com/snola"
+    }
+  ],
+  "tweetsSource": "http://tweetledee.snola.es/userjson.php?c=10&cache_interval=7200",
+  "gallery": {
+    "albumUrl": "https://twitter.com/i/moments/838794944273866757",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "http://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371206694719/Campus_Madrid_-_Puerta_de_Toledo",
+    "pointer": {
+      "latitude": 40.4068617,
+      "longitude": -3.7097189,
+      "zoom": 14
+    },
+    "mapCenter": {
+      "latitude": 40.4068617,
+      "longitude": -3.7118415
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=Q-3rHUS6clc&list=PLhYoZg2mFvjU4VP_gNR09fpTgn1P7Bo0N",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "Q-3rHUS6clc"
+  }
+}

@@ -1,0 +1,509 @@
+[
+  {
+    "title": "",
+    "members": [
+
+    ]
+  },
+  {
+    "title": "Scientific Committee",
+    "members": [
+      {
+        "name": "Emiliano Acquila-Natale",
+        "photoUrl": "/images/people/",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=09YIVIQAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      },
+      {
+        "name": "Ángel F. Agudo-Peregrina",
+        "photoUrl": "/images/people/agudoPeregrina.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=1mM0MCIAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      },
+      {
+        "name": "Gustavo Ribeiro Alves",
+        "photoUrl": "/images/people/GustavoRibeiroAlves.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vAonlVMAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Instituto Superior de Engenharia do Porto, Portugal"
+      },
+      {
+        "name": "Manuel Caeiro-Rodríguez",
+        "photoUrl": "/images/people/ManuelCaeiro-Rodríguez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=jj6XgewAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+      },
+      {
+        "name": "Agustín Carlos Caminero-Herráez",
+        "photoUrl": "/images/people/AgustinCaminero.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=i5jWU9AAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"
+      },
+      {
+        "name": "Julen Castillo-Apraiz",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      },
+      {
+        "name": "Miguel Ángel Conde-González",
+        "photoUrl": "/images/people/MiguelAConde-Gonzalez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=arTN2ogAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de León, Spain"
+      },
+      {
+        "name": "Adam Cooper",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "University of Bolton, United Kingdom"
+      },
+      {
+        "name": "Juan Cruz-Benito",
+        "photoUrl": "/images/people/cruz-benito.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=_mLnQPgAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Salamanca, Spain"
+      },
+      {
+        "name": "Carlos Delgado-Kloos",
+        "photoUrl": "/images/people/CarlosDelgado-Kloos.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=v3g5DHIAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Carlos III de Madrid, Spain"
+      },
+      {
+        "name": "Yannis Dimitriadis",
+        "photoUrl": "/images/people/YannisDimitriadis.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=xrzS-v4AAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Valladolid, Spain"
+      },
+      {
+        "name": "Juan Manuel Dodero",
+        "photoUrl": "/images/people/dodero.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=gIfEF2EAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Cádiz, Spain"
+      },
+      {
+        "name": "Hendrik Drachsler",
+        "photoUrl": "/images/people/drachsler.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=v1hwiRAAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Open Universiteit Nederland, Netherlands"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "photoUrl": "/images/people/RebeccaFerguson.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=lfxvlmwAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "The Open University, United Kingdom"
+      },
+      {
+        "name": "Camino Fernández-Llamas",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Universidad de León, Spain"
+      },
+      {
+        "name": "Baltasar Fernández-Manjón",
+        "photoUrl": "/images/people/BaltasarFernandezManjon.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=eNJxjcwAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Complutense de Madrid, Spain"
+      },
+      {
+        "name": "Ángel Fidalgo-Blanco",
+        "photoUrl": "/images/people/AngelFidalgo.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=7Hd1e1oAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      },
+      {
+        "name": "Alicia García-Holgado",
+        "photoUrl": "/images/people/AliciaGarciaHolgado.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=8h0aLacAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Salamanca, Spain"
+      },
+      {
+        "name": "Francisco J. García-Peñalvo",
+        "photoUrl": "/images/people/GarciaPenalvo.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=dpYhOkMAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Salamanca, Spain"
+      },
+      {
+        "name": "Dragan Gasevic",
+        "photoUrl": "/images/people/gasevic.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=Q4Nm22sAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "University of Edinburgh, United Kingdom"
+      },
+      {
+        "name": "Inés González-González",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Universidad Pública de Navarra, Spain"
+      },
+      {
+        "name": "David Griffiths",
+        "photoUrl": "/images/people/",
+        "socials": [
+
+        ],
+        "title": "University of Bolton, United Kingdom"
+      },
+      {
+        "name": "Mariluz Guenaga",
+        "photoUrl": "/images/people/guenaga.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=TuGjCfEAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Deusto, Spain"
+      },
+      {
+        "name": "Ángel Hernández-García",
+        "photoUrl": "/images/people/angelHernandez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=UMJmq0cAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      },
+      {
+        "name": "Santiago Iglesias-Pradas",
+        "photoUrl": "/images/people/SantiagoIglesias-Pradas.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=SWYivWkAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      },
+      {
+        "name": "Ana Isabel Jiménez-Zarco",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Universitat Oberta de Catalunya, Spain"
+      },
+      {
+        "name": "Mikel Larrañaga",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vyOFxGQAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      },
+      {
+        "name": "María Arcelina Marques",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Instituto Superior de Engenharia do Porto, Portugal"
+      },
+      {
+        "name": "Alejandra Martínez-Monés",
+        "photoUrl": "/images/people/AlejandraMartinez-Mones.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vFxp1Y0AAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad de Valladolid, Spain"
+      },
+      {
+        "name": "Iratxe Menchaca-Sierra",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=nNEnrggAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad de Deusto, Spain"
+      },
+      {
+        "name": "Milos Milovanovic",
+        "photoUrl": "/images/people/MilosMilovanovic.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=HLZ6OGAAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Univerzitet u Beogradu, Serbia"
+      },
+      {
+        "name": "Julià Minguillón",
+        "photoUrl": "/images/people/Minguillon.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=bvLG2jwAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universitat Oberta de Catalunya, Spain"
+      },
+      {
+        "name": "Miroslav Minovic",
+        "photoUrl": "/images/people/MiroslavMinovic.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=37bKLncAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Univerzitet u Beogradu, Serbia"
+      },
+      {
+        "name": "Rafael Molina-Carmona",
+        "photoUrl": "/images/people/MolinaCarmona.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=FVETk0AAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad de Alicante, Spain"
+      },
+      {
+        "name": "Amílcar Oliveira",
+        "photoUrl": "/images/people/AmilcarOliveira.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=nBhbLe4AAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidade Aberta, Portugal"
+      },
+      {
+        "name": "Pedro José Muñoz-Merino",
+        "photoUrl": "/images/people/Pedro.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=c-VhX_EAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Carlos III de Madrid, Spain"
+      },
+      {
+        "name": "Nic Nistor",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Ludwig Maximilians Universität München, Germany"
+      },
+      {
+        "name": "Rafael Pastor",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=Fc5BCyYAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"
+      },
+      {
+        "name": "Antonio Robles-Gómez",
+        "photoUrl": "/images/people/AntonioRoblesGomez.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=bSjpZ88AAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"
+      },
+      {
+        "name": "María Jesús Rodríguez-Triana",
+        "photoUrl": "/images/people/MariaJesusRodriguez-Triana.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=bb0zCMEAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Swiss Federal Institute of Technology in Lausanne, EPFL, Switzerland"
+      },
+      {
+        "name": "Salvador Ros",
+        "photoUrl": "/images/people/SalvadorRos.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=SXQmPxcAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"
+      },
+      {
+        "name": "Teresa Sancho",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=5Ahm2dcAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universitat Oberta de Catalunya, Spain"
+      },
+      {
+        "name": "Marcus Specht",
+        "photoUrl": "/images/people/MarcusSpecht.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=fC3dymIAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Open Universiteit Nederland, Netherlands"
+      },
+      {
+        "name": "Katrien Verbert",
+        "photoUrl": "/images/people/verbert.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=t5cgwVAAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Katholieke Universiteit Leuven, Belgium"
+      },
+      {
+        "name": "Mikel Villamañe",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      }
+    ]
+  }
+]

@@ -78,6 +78,10 @@
     {
       "route": "team",
       "permalink": "/team/"
+    },
+    {
+      "route": "c4papers",
+      "permalink": "/blog/posts/call-for-papers/"
     }
   ],
   "url": "https://lasi17.snola.es",

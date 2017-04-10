@@ -408,8 +408,13 @@
       },
       {
         "name": "Nic Nistor",
-        "photoUrl": "/images/people/",
+        "photoUrl": "/images/people/NicNistor.jpg",
         "socials": [
+		  {
+            "icon": "website",
+            "link": "https://scholar.google.ca/citations?user=cNVq5HUAAAAJ",
+            "name": "Website"
+         }
         ],
         "title": "Ludwig Maximilians Universität München, Germany"
       },
@@ -463,7 +468,7 @@
       },
       {
         "name": "Teresa Sancho",
-        "photoUrl": "/images/people/",
+        "photoUrl": "/images/people/TeresaSancho.jpg",
         "socials": [
          {
             "icon": "website",
@@ -474,6 +479,18 @@
         "title": "Universitat Oberta de Catalunya, Spain"
       },
       {
+        "name": "Daniel Spikol",
+        "photoUrl": "/images/people/DanielSpikol.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.ca/citations?user=q_61LpYAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Open Universiteit Nederland, Netherlands"
+      },
+	  {
         "name": "Marcus Specht",
         "photoUrl": "/images/people/MarcusSpecht.jpg",
         "socials": [
@@ -486,6 +503,18 @@
         "title": "Open Universiteit Nederland, Netherlands"
       },
       {
+        "name": "Davide Taibi",
+        "photoUrl": "/images/people/Davide_Taibi.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.ca/citations?user=10qdkhwAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Katholieke Universiteit Leuven, Belgium"
+      },
+	  {
         "name": "Katrien Verbert",
         "photoUrl": "/images/people/verbert.jpg",
         "socials": [

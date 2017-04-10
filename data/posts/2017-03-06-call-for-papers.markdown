@@ -28,9 +28,9 @@ LASI Spain 17 aims to address state-of-the-art advances in learning analytics, a
 
 ### Dates
 
-* Submission date:				April 15 2017
-* Notification of acceptance: 	May 1 2017
-* Camera-ready papers:			May 10 2017
+* Submission date:				April 30 2017
+* Notification of acceptance: 	May 21 2017
+* Camera-ready papers:			June 15 2017
 
 
 ### Manuscript submission instructions

@@ -73,5 +73,30 @@
                 "link": "https://scholar.google.com/citations?user=t5cgwVAAAAAJ"
             }
         ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Marina Umaschi Bers",
+        "title": "Professor",
+        "company": "Tufts University",
+        "companyLogo": "",
+        "country": "Tufts University",
+        "photoUrl": "/images/people/marinaUmaschiBers.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Keynote"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://emerald.tufts.edu/~mbers01/"
+            }
+        ]
     }
 }

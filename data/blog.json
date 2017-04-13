@@ -19,11 +19,20 @@
   },
   {
     "id": "call-for-papers",
-    "title": "Learning Analytics Summer Institute LASI 2017: Call for papers",
+    "title": "LASI Spain 2017: Call for papers",
     "posted": "2017-03-06",
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/",
     "brief": "Learning analytics has become increasingly present in educational settings. Whenever information technologies are used for educational purposes, there is a trail of evidence of the activities and behaviors of both learners and instructors. Over time, the analysis of this evidence, be it real-time data or data stored in database systems, may help better understand and improve educational processes. Learning analytics covers..."
+  },
+  {
+    "id": "call-for-papers-extended-deadline",
+    "title": "LASI Spain 2017: Submission deadline extension (April 30)",
+    "posted": "2017-04-13",
+    "primaryColor": "#3F51B5",
+    "secondaryColor": "#3F51B5",
+    "image": "/images/posts/",
+    "brief": ""
   }
 ]

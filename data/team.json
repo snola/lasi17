@@ -33,6 +33,13 @@
         "title": "Universidad Politécnica de Madrid, Spain"
       },
       {
+        "name": "Giora Alexandron",
+        "photoUrl": "/images/people/GioraAlexandron.jpg",
+        "socials": [
+        ],
+        "title": "Massachusetts Institute of Technology, United States of America"
+      },
+      {
         "name": "Gustavo Ribeiro Alves",
         "photoUrl": "/images/people/GustavoRibeiroAlves.jpg",
         "socials": [
@@ -119,6 +126,13 @@
         "title": "Universidad Carlos III de Madrid, Spain"
       },
       {
+        "name": "Rosanna de Rosa",
+        "photoUrl": "/images/people/RosannadeRosa.jpg",
+        "socials": [
+        ],
+        "title": "Università degli Studi di Napoli Federico II, Italy"
+      },
+      {
         "name": "Yannis Dimitriadis",
         "photoUrl": "/images/people/YannisDimitriadis.jpg",
         "socials": [
@@ -165,6 +179,18 @@
           }
         ],
         "title": "The Open University, United Kingdom"
+      },
+      {
+        "name": "Maka Eradze",
+        "photoUrl": "/images/people/MakaErazde.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.com/citations?user=G3Ptin4AAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Tallinna Ülikool, Estonia"
       },
       {
         "name": "Camino Fernández-Llamas",
@@ -273,6 +299,18 @@
         "title": "Universidad Politécnica de Madrid, Spain"
       },
       {
+        "name": "Sharon Hsiao",
+        "photoUrl": "/images/people/SharonHsiao.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "http://www.public.asu.edu/~ihsiao1",
+            "name": "Website"
+          }
+        ],
+        "title": "Arizona State University, United States of America"
+      },
+      {
         "name": "Santiago Iglesias-Pradas",
         "photoUrl": "/images/people/SantiagoIglesias-Pradas.jpg",
         "socials": [
@@ -285,11 +323,59 @@
         "title": "Universidad Politécnica de Madrid, Spain"
       },
       {
+        "name": "Seiji Isotani",
+        "photoUrl": "/images/people/SeijiIsotani.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.com/citations?user=GKphfGsAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de São Paulo, Brazil"
+      },
+      {
         "name": "Ana Isabel Jiménez-Zarco",
         "photoUrl": "/images/people/",
         "socials": [
         ],
         "title": "Universitat Oberta de Catalunya, Spain"
+      },
+      {
+        "name": "Srećko Joksimović",
+        "photoUrl": "/images/people/SreckoJoksimovic.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.ca/citations?user=gPtSLHIAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "University of Edinburgh, United Kingdom"
+      },
+      {
+        "name": "Marco Kalz",
+        "photoUrl": "/images/people/MarcoKalz.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.com/citations?user=6W4v6GQAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Open Universiteit, Netherlands"
+      },
+      {
+        "name": "Vitomir Kovanović",
+        "photoUrl": "/images/people/VitomirKovanovic.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.co.jp/citations?user=ETHMrqkAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "University of Edinburgh, United Kingdom"
       },
       {
         "name": "Mikel Larrañaga",
@@ -429,6 +515,30 @@
          }
         ],
         "title": "Universidad Nacional de Educación a Distancia, Spain"
+      },
+      {
+        "name": "Abelardo Pardo",
+        "photoUrl": "/images/people/AbelardoPardo.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.com/citations?user=m3XWLP8AAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "University of Sydney, Australia"
+      },
+      {
+        "name": "Mar Pérez-Sanagustín",
+        "photoUrl": "/images/people/MarPerez.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.com/citations?user=pTN_8XIAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": " Pontificia Universidad Católica de Chile, Chile"
       },
       {
         "name": "Antonio Robles-Gómez",

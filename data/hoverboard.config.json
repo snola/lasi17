@@ -213,7 +213,7 @@
       "url": "https://github.com/snola"
     }
   ],
-  "tweetsSource": "http://tweetledee.snola.es/userjson.php?c=10&cache_interval=7200",
+  "tweetsSource": "https://tweetledee.snola.es/userjson.php?c=10&cache_interval=7200",
   "gallery": {
     "albumUrl": "https://twitter.com/i/moments/838794944273866757",
     "photos": {

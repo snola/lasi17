@@ -6,6 +6,179 @@
     ]
   },
   {
+    "title": "General Chairs",
+    "members": [
+	{
+        "name": "Pedro J. Muñoz Merino",
+        "photoUrl": "/images/people/Pedro.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=c-VhX_EAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Carlos III de Madrid, Spain"
+     },
+     {
+       "photoUrl": "/images/people/SalvadorRos.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=SXQmPxcAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"
+      }
+    ]
+  },
+  {
+    "title": "Program Committee Chairs",
+    "members": [
+	{
+         "name": "Manuel Caeiro-Rodríguez",
+        "photoUrl": "/images/people/ManuelCaeiro-Rodríguez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=jj6XgewAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+     },
+     {
+        "name": "Ángel Hernández-García",
+        "photoUrl": "/images/people/angelHernandez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=UMJmq0cAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      }
+    ]
+  }, 
+   {
+    "title": "Organization Chairs",
+    "members": [
+	{
+        "name": "Ángel F. Agudo-Peregrina",
+        "photoUrl": "/images/people/agudoPeregrina.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=1mM0MCIAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+     },
+     {
+        "name": "Carlos Delgado-Kloos",
+        "photoUrl": "/images/people/CarlosDelgado-Kloos.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=v3g5DHIAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Carlos III de Madrid, Spain"
+      },
+	  {
+        "name": "Rafael Pastor",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=Fc5BCyYAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"	  
+	  }
+    ]
+  },
+  {
+    "title": "Workshop Chairs",
+    "members": [
+	{
+        "name": "Miguel Ángel Conde-González",
+        "photoUrl": "/images/people/MiguelAConde-Gonzalez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=arTN2ogAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de León, Spain"
+     },
+     {
+        "name": "Mikel Larrañaga",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vyOFxGQAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      }
+    ]
+  },
+  {
+    "title": "Dissemination Chairs",
+    "members": [
+	{
+        "name": "Juan Cruz-Benito",
+        "photoUrl": "/images/people/cruz-benito.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=_mLnQPgAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Salamanca, Spain"
+     },
+     {
+        "name": "Alejandra Martínez-Monés",
+        "photoUrl": "/images/people/AlejandraMartinez-Mones.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vFxp1Y0AAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad de Valladolid, Spain"
+      }
+    ]
+  },
+ {
+    "title": "Industry Chair",
+    "members": [
+	{
+        "name": "Mariluz Guenaga",
+        "photoUrl": "/images/people/guenaga.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=TuGjCfEAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de Deusto, Spain"
+     }
+    ]
+  },         
+  {
     "title": "Scientific Committee",
     "members": [
       {

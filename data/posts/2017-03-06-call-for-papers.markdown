@@ -43,3 +43,6 @@ LASI Spain 17 aims to address state-of-the-art advances in learning analytics, a
 * Short papers: 6-8 pages.
 * Full papers: 12-15 pages.
 
+### Conference post-proceedings
+ 
+It is planned to publish the proceedings with Springer in their Communications in Computer and Information Science series (final approval pending).

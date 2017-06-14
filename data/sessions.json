@@ -10,7 +10,7 @@
     "speakers": [
     ],
     "tags": [
-      "discussion panel"
+      "Discussion panel"
     ],
     "presentation":""
   },
@@ -26,18 +26,18 @@
       1
     ],
     "tags": [
-      "keynote"
+      "Keynote"
     ],
     "presentation":""
   },
   "11": {
     "id": 11,
-    "title": "Presentations of LA papers submitted to LASI",
+    "title": "Paper presentations of LA papers submitted to LASI",
     "description": "",
     "speakers": [
     ],
     "tags": [
-      "presentations", "papers"
+      "Paper presentations"
     ],
     "presentation":""
   },
@@ -49,18 +49,18 @@
       3
     ],
     "tags": [
-      "keynote"
+      "Keynote"
     ],
     "presentation":""
   },
   "13": {
     "id": 13,
-    "title": "Presentations of LA papers submitted to LASI",
+    "title": "Paper presentations of LA papers submitted to LASI",
     "description": "",
     "speakers": [
     ],
     "tags": [
-      "presentations", "papers"
+      "Paper presentations"
     ],
     "presentation":""
   },
@@ -72,7 +72,7 @@
       4
     ],
     "tags": [
-      "keynote"
+      "Keynote"
     ],
     "presentation":""
   },
@@ -84,7 +84,7 @@
       2
     ],
     "tags": [
-      "keynote"
+      "Keynote"
     ],
     "presentation":""
   },
@@ -96,7 +96,7 @@
       5
     ],
     "tags": [
-      "keynote"
+      "Keynote"
     ],
     "presentation":""
   },
@@ -106,18 +106,16 @@
     "description": "",
     "speakers": [
     ],
-    "tags": [
-    ],
     "presentation":""
   },
   "18": {
     "id": 18,
-    "title": "Presentations of LA papers submitted to LASI",
+    "title": "Paper presentations of LA papers submitted to LASI",
     "description": "",
     "speakers": [
     ],
     "tags": [
-      "presentations", "papers"
+      "Paper presentations"
     ],
     "presentation":""
   },
@@ -129,7 +127,7 @@
       2
     ],
     "tags": [
-      "workshop"
+      "Workshop"
     ],
     "presentation":""
   },

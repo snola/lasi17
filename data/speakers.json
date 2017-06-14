@@ -6,7 +6,7 @@
         "title": "Associate Professor",
         "company": "Open University of the Netherlands",
         "companyLogo": "",
-        "country": "Open University of the Netherlands",
+        "country": "The Netherlands",
         "photoUrl": "/images/people/drachsler.jpg",
         "shortBio": "",
         "bio": "",
@@ -31,7 +31,7 @@
         "title": "Professor & Chair in Learning Analytics & Informatics",
         "company": "University of Edinburgh",
         "companyLogo": "",
-        "country": "University of Edinburgh",
+        "country": "Scotland",
         "photoUrl": "/images/people/gasevic.jpg",
         "shortBio": "",
         "bio": "",
@@ -56,7 +56,7 @@
         "title": "Assistant Professor",
         "company": "KU Leuven",
         "companyLogo": "",
-        "country": "KU Leuven",
+        "country": "Belgium",
         "photoUrl": "/images/people/verbert.jpg",
         "shortBio": "",
         "bio": "",
@@ -81,7 +81,7 @@
         "title": "Professor",
         "company": "Tufts University",
         "companyLogo": "",
-        "country": "Tufts University",
+        "country": "USA",
         "photoUrl": "/images/people/marinaUmaschiBers.jpg",
         "shortBio": "",
         "bio": "",
@@ -96,6 +96,31 @@
                 "icon": "website",
                 "name": "Website",
                 "link": "http://emerald.tufts.edu/~mbers01/"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": false,
+        "name": "Ramiro Rego Álvarez",
+        "title": "",
+        "company": "IBM Universidades",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "/images/people/RamiroRego.jpeg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Keynote"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
             }
         ]
     }

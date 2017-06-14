@@ -180,23 +180,23 @@
       "caption": "attendees"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "days"
     },
     {
-      "counter": "3+",
+      "counter": "5+",
       "caption": "keynotes"
     },
     {
-      "counter": "5+",
+      "counter": "1+",
       "caption": "workshops"
     },
     {
-      "counter": "3+",
+      "counter": "2+",
       "caption": "industry"
     },
     {
-      "counter": "25+",
+      "counter": "20+",
       "caption": "academic"
     }
   ],

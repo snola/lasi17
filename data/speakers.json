@@ -123,5 +123,1204 @@
                 "link": ""
             }
         ]
+    },
+    "6": {
+        "id": 6,
+        "featured": false,
+        "name": "Alejandra Martínez-Monés",
+        "title": "",
+        "company": "Universidad de Valladolid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": false,
+        "name": "Christophe Reffay",
+        "title": "",
+        "company": "Université Bourgogne Franché-Comte",
+        "companyLogo": "",
+        "country": "France",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": false,
+        "name": "Gwénaëlle Lécuyer-Cabioch",
+        "title": "",
+        "company": "Laboratoire d'Informatique de Paris 6",
+        "companyLogo": "",
+        "country": "France",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": false,
+        "name": "Vanda Luengo",
+        "title": "",
+        "company": "Laboratoire d'Informatique de Paris 6",
+        "companyLogo": "",
+        "country": "France",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "featured": false,
+        "name": "Omar Alvarez-Xochihua",
+        "title": "",
+        "company": "Universidad Autónoma de Baja California",
+        "companyLogo": "",
+        "country": "México",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": false,
+        "name": "Pedro J. Muñoz-Merino",
+        "title": "",
+        "company": "Universidad Carlos III de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": false,
+        "name": "Ricardo García-Pericuesta",
+        "title": "",
+        "company": "Universidad Autónoma de Baja California",
+        "companyLogo": "",
+        "country": "México",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "José Á. González-Fraga",
+        "title": "",
+        "company": "Universidad Autónoma de Baja California",
+        "companyLogo": "",
+        "country": "México",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Carlos Delgado Kloos",
+        "title": "",
+        "company": "Universidad Carlos III de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "featured": false,
+        "name": "Everardo Gutiérrez-López",
+        "title": "",
+        "company": "Universidad Autónoma de Baja California",
+        "companyLogo": "",
+        "country": "México",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "featured": false,
+        "name": "Rodolfo A. Martínez-Rodríguez",
+        "title": "",
+        "company": "Universidad Autónoma de Baja California",
+        "companyLogo": "",
+        "country": "México",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },"17": {
+        "id": 17,
+        "featured": false,
+        "name": "Adolfo Ruiz Calleja",
+        "title": "",
+        "company": "Tallinn University",
+        "companyLogo": "",
+        "country": "Estonia",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "featured": false,
+        "name": "María Jesús Rodríguez-Triana",
+        "title": "",
+        "company": "Tallinn University",
+        "companyLogo": "",
+        "country": "Estonia",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "featured": false,
+        "name": "Luis P. Prieto",
+        "title": "",
+        "company": "Tallinn University",
+        "companyLogo": "",
+        "country": "Estonia",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "featured": false,
+        "name": "Katrin Poom-Valickis",
+        "title": "",
+        "company": "Tallinn University",
+        "companyLogo": "",
+        "country": "Estonia",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "featured": false,
+        "name": "Tobias Ley",
+        "title": "",
+        "company": "Tallinn University",
+        "companyLogo": "",
+        "country": "Estonia",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "featured": false,
+        "name": "Francisco de Arriba-Pérez",
+        "title": "",
+        "company": "University of Vigo",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "featured": false,
+        "name": "Manuel Caeiro Rodríguez",
+        "title": "",
+        "company": "University of Vigo",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "featured": false,
+        "name": "Juan M. Santos",
+        "title": "",
+        "company": "University of Vigo",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "featured": false,
+        "name": "Erkan Er",
+        "title": "",
+        "company": "University of Valladolid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "featured": false,
+        "name": "Eduardo Gómez-Sánchez",
+        "title": "",
+        "company": "University of Valladolid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "featured": false,
+        "name": "Miguel L. Bote-Lorenzo",
+        "title": "",
+        "company": "University of Valladolid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "featured": false,
+        "name": "Yannis Dimitriadis",
+        "title": "",
+        "company": "University of Valladolid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "featured": false,
+        "name": "Juan I. Asensio-Pérez",
+        "title": "",
+        "company": "University of Valladolid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "featured": false,
+        "name": "Miguel Ángel Conde",
+        "title": "",
+        "company": "University of León",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "featured": false,
+        "name": "Ángel Fidalgo",
+        "title": "",
+        "company": "Universidad Politécnica de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "featured": false,
+        "name": "María Luisa Sein-Echaluce",
+        "title": "",
+        "company": "University of Zaragoza",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "featured": false,
+        "name": "Francisco J. García-Peñalvo",
+        "title": "",
+        "company": "University of Salamanca",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "featured": false,
+        "name": "Carmen Ruiz-De-Azcárate",
+        "title": "",
+        "company": "Universidad Politécnica de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "featured": false,
+        "name": "Ángel Hernández-García",
+        "title": "",
+        "company": "Universidad Politécnica de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "featured": false,
+        "name": "Santiago Iglesias-Pradas",
+        "title": "",
+        "company": "Universidad Politécnica de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "featured": false,
+        "name": "Emiliano Acquila-Natale",
+        "title": "",
+        "company": "Universidad Politécnica de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "featured": false,
+        "name": "Antonio Robles-Gómez",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "featured": false,
+        "name": "Salvador Ros",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "featured": false,
+        "name": "Antonio Martínez-Gámez",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "featured": false,
+        "name": "Roberto Hernández",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "featured": false,
+        "name": "Llanos Tobarra",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "featured": false,
+        "name": "Rafael Pastor",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "44": {
+        "id": 44,
+        "featured": false,
+        "name": "Agustín C. Caminero",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "featured": false,
+        "name": "Jesús Cano",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "featured": false,
+        "name": "Felix Buendia",
+        "title": "",
+        "company": "Universitat Politècnica de València",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "featured": false,
+        "name": "José Vicente Benlloch",
+        "title": "",
+        "company": "Universitat Politècnica de València",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "featured": false,
+        "name": "Aarón Rubio Fernández",
+        "title": "",
+        "company": "Universidad Carlos III de Madrid",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "featured": false,
+        "name": "Fernando Santamaría González",
+        "title": "",
+        "company": "Universidad Isabel I",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "featured": false,
+        "name": "Jordi Claramonte",
+        "title": "",
+        "company": "Universidad Nacional de Educación a Distancia",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "featured": false,
+        "name": "Mikel Villamañe",
+        "title": "",
+        "company": "University of the Basque Country",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "featured": false,
+        "name": "Mikel Larrañaga",
+        "title": "",
+        "company": "University of the Basque Country",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "featured": false,
+        "name": "Ainhoa Alvarez",
+        "title": "",
+        "company": "University of the Basque Country",
+        "companyLogo": "",
+        "country": "Spain",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Paper author"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
     }
 }
